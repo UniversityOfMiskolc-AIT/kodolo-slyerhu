@@ -1,0 +1,6 @@
+PS C:\Users\slyer\Desktop> python -m unittest asciicoding_test >> result.txt
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
