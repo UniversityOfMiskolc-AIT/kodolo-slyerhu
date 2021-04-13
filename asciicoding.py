@@ -60,8 +60,5 @@ def main():
     print("\nThe decoded string is: " + str(decoded_string) + "\n")
 
 
-
 if __name__ == "__main__":
     main()
-
-
